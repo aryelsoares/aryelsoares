@@ -16,12 +16,13 @@
 ## Stats 📊
 
 <div>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=aryelsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- <img height="172em" src="https://github-readme-stats.vercel.app/api?username=aryelsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="172em" src="https://streak-stats.demolab.com?user=aryelsoares&theme=dracula" alt="GitHub Streak" />
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryelsoares&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="255em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryelsoares&theme=react&area=true"/>
+  <img height="264em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryelsoares&theme=react&area=true"/>
 </div>
 
 ## Contact 💬
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=github&logoColor=white)](https://aryelsoares.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/aryelsoares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryelsoares)
