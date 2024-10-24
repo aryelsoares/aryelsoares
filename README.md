@@ -23,4 +23,5 @@
 
 ## Contact 💬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryelsoares)
+[![Portfolio](https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=github&logoColor=white)](https://aryelsoares.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/aryelsoares)
